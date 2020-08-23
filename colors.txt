@@ -4,3 +4,4 @@ white
 green
 pink
 yellow
+aquamarine
